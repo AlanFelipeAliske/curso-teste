@@ -1,0 +1,40 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+
+}
+body{
+  background: #f4f4f4;
+}
+
+.banner {
+  filter: brightness(60%);
+}
+.titulo{
+  position: absolute;
+  z-index: +999;
+}
+
+.video{
+  width: 35%;
+}
+
+.container-video{
+  text-align: center;
+}
+
+.titulo-principal{
+  font-size: 70px
+}
+
+.carousel-caption{
+  bottom: 13.25rem;
+}
+
+.container-text{
+  display: flex;
+  align-items: center;
+}
+
+.section{
+  text-align: center;
+}
